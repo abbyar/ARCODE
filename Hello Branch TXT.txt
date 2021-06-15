@@ -1,3 +1,5 @@
 Entahlah ini apaan
 pokonya yang penting bisa buat belajar git
 edisi branch
+ini perubahan branch ke-1
+gitu aja sih
