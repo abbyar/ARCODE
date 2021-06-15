@@ -4,3 +4,5 @@ edisi branch
 ini perubahan branch ke-1
 gitu aja sih
 udah di master, brach diedit... :v
+
+perubahan dari TES BRANCH 2
