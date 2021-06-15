@@ -1,0 +1,3 @@
+Entahlah ini apaan
+pokonya yang penting bisa buat belajar git
+edisi branch
