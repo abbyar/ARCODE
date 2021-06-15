@@ -2,4 +2,5 @@ Hanya sebuah TXT.
 Iya, TXT.
 Text.
 Perubahan ke-1
-Cukup 1 baris aja..
+Cukup 2 baris aja..
+Barisnya tambahin deh jadi 2.
